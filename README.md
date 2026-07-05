@@ -4,7 +4,7 @@ Falls ihr gar keine Ahnung von Coden und Programmieren habt, ist das genau eure 
 
 Hier eine Schritt für Schritt Anleitung.
 
-1. Fragt auf der Google Taekout Seite eure Dateien an. Dann ladet ihr die Zip-Dateien herunter und -ganz wichtig- extrahiert sie (Doppelklick auf den Ordner der Zip-Datei und dann steht oberhalb in der Leiste "alle extrahieren"). Jetzt könnt ihr eure extrahierten Dateien noch wahlweise alle in einen großen Ornder sortieren oder nach Jahren sortieren, das ist gleich, solange die Dateien extrahiert wurden.
+1. Fragt auf der Google Taekout Seite eure Dateien an. Dann ladet ihr die Zip-Dateien herunter und -ganz wichtig- extrahiert sie (Doppelklick auf den Ordner der Zip-Datei und dann steht oberhalb in der Leiste "alle extrahieren"). Jetzt könnt ihr eure extrahierten Dateien noch wahlweise alle in einen großen Ordner sortieren oder nach Jahren sortieren, das ist gleich, solange die Dateien extrahiert wurden.
 2. Ladet euch die neueste Version von Python für euer Betriebssystem herunter (ist inklusive Manager): https://www.python.org/downloads/
    (Falls ihr Python schon habt: Betriebssystem 3.10 oder neuer)
 3. Ladet den kompletten Ordner oben mit allen Dateien herunter.
