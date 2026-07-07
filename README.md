@@ -19,18 +19,19 @@ Hier eine Schritt für Schritt Anleitung.
 5. Mini Code Anpassung: Geht in writer.py (Einmal anklicken, dann über Rechtsklick, Edit in IDLE, und neueste Python Version anklicken)
    <img width="823" height="698" alt="image" src="https://github.com/user-attachments/assets/54115bb8-9978-45f3-8e91-4d5e350ace27" />
 
-   Jetzt müsst ihr nur eine kleine Zeile ändern, und zwar den Pfad, wo Ihr das Exiftool gespeichert habt. Ihr ersetzt das umrandete durch euren eigenen Pfad:
+   Jetzt müsst ihr nur eine kleine Zeile ändern, und zwar den Pfad, wo Ihr das Exiftool gespeichert habt. (Linksklick auf Exiftool.exe, Dann Rechtsklick und auf
+   "Pfad kopieren"). Ihr ersetzt das umrandete durch euren eigenen Pfad:
    EXIFTOOL_PATH = r"C:\Pfad\zu\exiftool.exe":
    <img width="826" height="847" alt="Screenshot 2026-07-05 202315" src="https://github.com/user-attachments/assets/9a87c76c-e2ec-483b-99c8-14f31f64a883" />
 
    Danach noch speichern (links oben: File --> save). Falls ihr das mit eurem Pfad nicht ganz versteht, fragt einfach mal chatgpt oder so ;)
-6. SUPER! Wenn ihr es bis hierhin geschafft habt, ist der Rest ein Kinderspiel. Starte das Programm main.py.
+7. SUPER! Wenn ihr es bis hierhin geschafft habt, ist der Rest ein Kinderspiel. Starte das Programm main.py.
    (Gibt mehrere Methoden zum Starten, am einfachsten ist Doppelklick, sonst einfach nochmal googeln, falls das Programm herumspinnt, wie man es profesionneller
    öffnet)
-7. Wähle deinen Google Takeout Ordner aus. Ihr könnt auch erst mal einen Test-Ordner mit weniger Dateien zur Probe durchlaufen lassen. (Ich empfehle in jedem Fall dringend, vorher eine Sicherheitskopie zu machen, da die Originaldateien überschrieben werden.)
-8. Auf "FULL RUN (EXIFTOOL)" klicken.
-9. Warten, bis die Verarbeitung abgeschlossen ist. (Je nach Dateien Anzahl kann es Minuten bis mehrere Stunden dauern.)
-10. Hoffentlich hat alles geklappt! Wenn nicht sorry, dann weiß ich auch nicht woran es liegt...
+8. Wähle deinen Google Takeout Ordner aus. Ihr könnt auch erst mal einen Test-Ordner mit weniger Dateien zur Probe durchlaufen lassen. (Ich empfehle in jedem Fall dringend, vorher eine Sicherheitskopie zu machen, da die Originaldateien überschrieben werden.)
+9. Auf "FULL RUN (EXIFTOOL)" klicken.
+10. Warten, bis die Verarbeitung abgeschlossen ist. (Je nach Dateien Anzahl kann es Minuten bis mehrere Stunden dauern.)
+11. Hoffentlich hat alles geklappt! Wenn nicht sorry, dann weiß ich auch nicht woran es liegt...
 
 
 
